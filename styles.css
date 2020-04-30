@@ -1,0 +1,115 @@
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color:#66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size:5.265rem;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color:#66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color:#11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+border-style: dotted;
+border-width: 5px 0 0;
+border-top-color: #EAF6F6;
+width:5%;
+
+}
+.contact-me{
+  padding:50px;
+  margin-bottom: 50px;
+}
+.skills{
+margin-top:100px;
+
+}
+.footer-link{
+  color:#11999E;
+}
+.profile{
+  margin-bottom: 100px;
+}
+.first-p{
+  margin:0 auto;
+
+}
+.last-p{
+  line-height: 2;
+  padding:10px;
+  margin-bottom: 20px;
+}
+.top-container {
+  background-color: mintcream;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+  padding:50px;
+  background-color: #66BFBF;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  bottom: 300px;
+  position: absolute;
+  left: 300px;
+}
+.skill-row{
+  width:50%;
+  margin:100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.computer{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+  border-radius:50%;
+}
+.chillies{
+  width: 25%;
+  float:right;
+  margin-left:30px;
+}
+.btn{
+  background-color: #66BFBF;
+  width:20%;
+  border-radius:12px;
+  text-decoration: none;
+  padding:10px;
+  color:white;
+}
+.copy-right{
+  color:#EAF6F6;
+}
+#mypicture {
+  margin-top: 100px;
+  height: 200px;
+  width: 200px;
+}
